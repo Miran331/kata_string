@@ -13,6 +13,9 @@ public class App {
         Cat cat1 = (Cat) applicationContext.getBean("cat");
         Cat cat2 = (Cat) applicationContext.getBean("cat");
         System.out.println(cat1 == cat2);
+        //Я даже не почему , отправился не готовый код.
+
+
 
     }
 
